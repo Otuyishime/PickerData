@@ -3,7 +3,7 @@
 //  PickerData
 //
 //  Created by Olivier Tuyishime on 2/7/15.
-//  Copyright (c) 2015 Olivier Tuyishime. All rights reserved.
+//  Copyright (c) 2015 sir Olivier Tuyishime. All rights reserved.
 //
 
 import UIKit

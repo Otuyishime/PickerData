@@ -156,6 +156,7 @@
 		4D8F5B2F1A85F3EA00E0CDDE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Olivier Tuyishime";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				4D8F5B581A85F3EB00E0CDDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D8F5B591A85F3EB00E0CDDE /* Build configuration list for PBXNativeTarget "PickerDataTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				4D8F5B5B1A85F3EB00E0CDDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
